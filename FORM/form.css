@@ -42,5 +42,16 @@ textarea{
     resize: vertical;
 }
 button:hover{
-    background-color: bisque;
+    background-color: rgb(131, 125, 144);
+}
+button{
+
+    width: 100%;
+    border-radius: 12px;
+    background: #6d2929;
+    color: #fff;
+    font-size: 16px;
+    cursor:pointer;
+    transition: background-color 0.3s easer;
+    
 }
